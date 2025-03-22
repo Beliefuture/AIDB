@@ -924,6 +924,10 @@ Han, Y., Li, G., Yuan, H. and Sun, J., TKDE, 2022. [[paper](https://ieeexplore.i
 
 **[Card, Attack]** Jintao Zhang, Guoliang Li, Chao Zhang, Chengliang Chai. PACE: Poisoning Attacks on Learned Cardinality Estimation. SIGMOD, 2024. [[paper](https://dl.acm.org/doi/10.1145/3639292)]
 
+**[Card]** Tianjing Zeng, Junwei Lan, Jiahong Ma, Wenqing Wei, Rong Zhu, Pengfei Li, Bolin Ding, Defu Lian, Zhewei Wei, Jingren Zhou. PRICE: A Pretrained Model for Cross-Database Cardinality Estimation. VLDB, 2025. [[paper](https://arxiv.org/pdf/2406.01027)]
+
+**[Card]** Yufan Sheng, Xin Cao, Kaiqi Zhao, Yixiang Fang, Jianzhong Qi, Wenjie Zhang, Christian S. Jensen. ACE: A Cardinality Estimator for Set-Valued Queries. VLDB, 2025. [[paper](https://arxiv.org/pdf/2503.14929)]
+
 **[ EA&B ]** Wang, X., Qu, C., Wu, W., Wang, J., & Zhou, Q. (2021). Are We Ready For Learned Cardinality Estimation?  Proc. VLDB Endow. 14(9): 1640-1654 (2021). [[paper](http://www.vldb.org/pvldb/vol14/p1640-wang.pdf)]
 
 **[ EA&B ]** Sun, J., Zhang, J., Sun, Z., Li, G., & Tang, N. (n.d.). *Learned Cardinality Estimation : A Design Space Exploration and a Comparative Evaluation [ EA & B ]*. *14*(1). VLDB, 2022. [[paper](http://dbgroup.cs.tsinghua.edu.cn/ligl/papers/vldb22-card-exp.pdf)]
@@ -1276,6 +1280,8 @@ Meghdad Kurmanji, Peter Triantafillou. Detect, Distill and Update: Learned DB Sy
 
 Peizhi Wu, Zachary G. Ives. Modeling Shifting Workloads for Learned Database Systems. SIGMOD, 2024. [[paper](https://dl.acm.org/doi/10.1145/3639293)]
 
+Zhanhao Zhao, Gang Chen, Haotian Gao, Manuel Rigger, Beng Chin Ooi, Naili Xing, Lingze Zeng, Meihui Zhang. NeurBench: Benchmarking Learned Database Components with Data and Workload Drift Modeling. arxiv, 2025. [[paper](https://arxiv.org/pdf/2503.13822)]
+
 ### Query And Data Generation
 
 #### Query Generation
@@ -1352,7 +1358,6 @@ Ju Fan, Tongyu Liu, Guoliang Li, Yuwei Shen, Xiaoyong Du. Relational Data Synthe
 **DBMS Fitting: Why should we learn what we already know?** ![](https://img.shields.io/badge/-near_white_box_cost_model-blue)   
 
 *Benjamin Hilprecht, Tiemo Bang, Muhammad El-Hindi, et al. CIDR, 2020.* [[paper](http://cidrdb.org/cidr2020/papers/p34-hilprecht-cidr20.pdf)]
-
 
 **XuanYuan: An AI-Native Database.** ![](https://img.shields.io/badge/-model_assembly-blue)  
 
